@@ -1,3 +1,4 @@
+# Just a comment
 from distutils.core import setup
 
 import py2exe
